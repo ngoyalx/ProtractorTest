@@ -1,0 +1,90 @@
+{
+  "time" : {
+    "start" : 1503296769554,
+    "stop" : 1503297794668,
+    "duration" : 1025114
+  },
+  "testSuites" : [ {
+    "uid" : "a4efab7aa9775c0b",
+    "name" : "Google home page",
+    "title" : "Google home page",
+    "time" : {
+      "start" : 1503297746560,
+      "stop" : 1503297794668,
+      "duration" : 48108
+    },
+    "statistic" : {
+      "total" : 2,
+      "passed" : 2,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "72c872bde53a9e90",
+      "name" : "Verify google homepage title",
+      "title" : "Verify google homepage title",
+      "time" : {
+        "start" : 1503297787708,
+        "stop" : 1503297794668,
+        "duration" : 6960
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "2f8a7fa9b17f12e2",
+      "name" : "Verify google homepage title",
+      "title" : "Verify google homepage title",
+      "time" : {
+        "start" : 1503297746560,
+        "stop" : 1503297754559,
+        "duration" : 7999
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "1fe35b7e9210e77c",
+    "name" : "Protractor Demo App",
+    "title" : "Protractor Demo App",
+    "time" : {
+      "start" : 1503296769554,
+      "stop" : 1503296805351,
+      "duration" : 35797
+    },
+    "statistic" : {
+      "total" : 2,
+      "passed" : 2,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "4952fdce27de219c",
+      "name" : "should have a title",
+      "title" : "should have a title",
+      "time" : {
+        "start" : 1503296801815,
+        "stop" : 1503296805351,
+        "duration" : 3536
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "5f56f6f5d5665f5c",
+      "name" : "should have a title",
+      "title" : "should have a title",
+      "time" : {
+        "start" : 1503296769554,
+        "stop" : 1503296774925,
+        "duration" : 5371
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

@@ -1,0 +1,38 @@
+{
+  "uid" : "4952fdce27de219c",
+  "name" : "should have a title",
+  "title" : "should have a title",
+  "time" : {
+    "start" : 1503296801815,
+    "stop" : 1503296805351,
+    "duration" : 3536
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "1fe35b7e9210e77c",
+    "name" : "Protractor Demo App",
+    "title" : "Protractor Demo App"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Protractor Demo App"
+  }, {
+    "name" : "suite-title",
+    "value" : "Protractor Demo App"
+  } ],
+  "parameters" : [ ]
+}

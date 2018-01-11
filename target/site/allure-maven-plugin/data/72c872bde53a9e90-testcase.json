@@ -1,0 +1,38 @@
+{
+  "uid" : "72c872bde53a9e90",
+  "name" : "Verify google homepage title",
+  "title" : "Verify google homepage title",
+  "time" : {
+    "start" : 1503297787708,
+    "stop" : 1503297794668,
+    "duration" : 6960
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "a4efab7aa9775c0b",
+    "name" : "Google home page",
+    "title" : "Google home page"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Google home page"
+  }, {
+    "name" : "suite-title",
+    "value" : "Google home page"
+  } ],
+  "parameters" : [ ]
+}
